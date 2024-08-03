@@ -6,4 +6,4 @@
 
 ## Bugs Detail
 
-![image](res/res.png)
+![image](res/image.png)
